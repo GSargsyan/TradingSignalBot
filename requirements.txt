@@ -1,0 +1,5 @@
+google-genai
+feedparser
+sentence-transformers
+python-dotenv
+requests

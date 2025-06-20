@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  signal-project:
+    build: .
+    container_name: signal-project
+    volumes:
+      - .:/opt/TheSignalProject/
